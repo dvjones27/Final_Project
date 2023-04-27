@@ -1,0 +1,20 @@
+The project is to be built with one of the frameworks discussed in class, should interact with some form of database, and allow for interaction between/integration of a third-party web API. 
+The application a student builds should have the ability to Create, Retrieve, Update and Delete data.
+Getting Started (Full Stack Project Reqs)
+First, start by choosing the type of data you would like to use by picking a Web API from the aforementioned categories. Once you have that information, choose your web framework of choice to build the project in (Flask or React). With that in mind, decide how you would like to design your project. If you need inspiration feel free to use dribbble.com for guidance. 
+Building and Design Requirements 
+Each student’s project should have a clean layout (doesn’t have to be award-winning) that displays the usefulness of the application. If your application has different areas to showcase, make sure proper navigation is available. (i.e a user should be able to navigate through the application if needed via a navigation bar). 
+
+
+The project is to be built with one of the frameworks discussed in class, 
+should interact with some form of database, and 
+allow for interaction between integration of a third-party web API.
+
+
+https://docs.carboninterface.com/#/=>VVzlViPtvxS6hAfJmxqnA
+curl "https://www.carboninterface.com/api/v1/auth"
+  -H "Authorization: Bearer API_KEY"
+
+https://docs.climatiq.io/=>NJR53CW69A4BH6PZAKX1V8YC5KQY
+https://www.cloverly.com/carbon-offset-documentation
+https://co2offset.io/api.html
